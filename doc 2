@@ -1,0 +1,14 @@
+Brīvkoda licences nosaka, kā drīkst izmantot, kopēt, mainīt un izplatīt programmaturas kodu.
+Tas sadalās 2 veidos;
+Permisīvās licences un Copyleft licences. 
+Permisīvās licences ir ļoti brīvas ļauj izmantot kodu slēgtos komercprojektos.
+Savukārt copyleft licences nosaka ka atvasinātajiem projektiem jābūt izplatītiem ar to pašu licenci.
+Apache 2.0 ir permisīva licence, kas ir ļoti brīva un atļauj kodu izmantot komerciāli
+tajā nepieciešams saglabāt autora paziņojumus un jānorāda veiktās izmaiņas.
+Priekšrocība tai ir ka garantē patentu aizsardzību.
+
+Apache 2.0 vs MIT
+
+Tās abas ir brīvas un atļauj komercprojektus.
+Apache ir sarežģītāks, bet sniedz patentu aizsardzību.
+MIT ir vienkāršāka, bet nesniedz patentu aizsardzību.
